@@ -21,7 +21,7 @@ This C++ project demonstrates the usage of the Wake-on-LAN (WoL) protocol to rem
 
 2. Open the project in your preferred C++ development environment.
 
-3. Modify the `wakeOnLAN` function in the `wakeOnLAN.cpp` file to set the target PC's MAC address:
+3. Modify the `main` function in the `wakeOnLAN.cpp` file to set the target PC's MAC address:
 
     ```cpp
     // Replace "00:11:22:33:44:55" with the target PC's MAC address
